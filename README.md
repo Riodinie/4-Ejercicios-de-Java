@@ -1,4 +1,4 @@
-## 4 Ejercicios en Java
+## 6 Ejercicios en Java
 
 Este repositorio contiene cuatro ejercicios cortos en Java. Cada ejercicio está organizado en su propia carpeta. Se debe ejecutar el archivo `main` de cada carpeta individualmente. 
 
@@ -33,3 +33,15 @@ Este repositorio contiene cuatro ejercicios cortos en Java. Cada ejercicio está
       - **Atletas por país:** Lista los atletas registrados, agrupados por su país de origen.
       - **Tiempo promedio:** Calcula y muestra el tiempo promedio de todos los atletas registrados.
       - **Salir:** Termina la ejecución del programa.
+
+5. Escribe un programa que pida al usuario tres números enteros y los imprima en orden descendente.
+
+6.Crea un programa que permita al usuario ingresar una calificación entre 0 y 10. El programa debe realizar el siguiente análisis:
+
+      - Solicita al usuario que ingrese una nota en el rango de 0 a 10.
+      - Evalúa la nota ingresada y clasifícala en uno de los siguientes rangos:
+             - 0 a 5.9: Insuficiente
+             - 6 a 7.9: Buena
+             - 8 a 9.5: Sobresaliente
+             - 9.6 a 10: Excelente
+    - Imprime un mensaje indicando la clasificación correspondiente según el rango en el que se encuentra la nota.
